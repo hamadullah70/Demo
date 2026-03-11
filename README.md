@@ -1,3 +1,3 @@
 # Demo
-This is a demo Repository
+This is a demo Repository.  
 Author _ Hamad Ullah
